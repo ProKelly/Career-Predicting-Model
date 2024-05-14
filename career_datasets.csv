@@ -1,0 +1,500 @@
+secondary_school_studies,favorite_subjects,subjects_passed,interest,personality_trait,family_background,financial_status,work_environment,your_hobby,expected_university_duration,grades,career
+Science,['Chemistry'],['Mathematics' 'Physics'],Science,Introverted,Highly Educated,Financially Stable,Competitive,Gardening,7,88,Electrical Engineering
+Arts,['Economics'],['History' 'Geography'],Science,Introverted,Highly Educated,Moderate,Collaborative,Gardening,3,78,Journalism
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Low Income,Financially Stable,Collaborative,Photography,3,64,Accounting
+Arts,['Economics'],['History' 'Literature'],Finance,Extroverted,Highly Educated,Moderate,Flexible,Photography,3,92,Marketing
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Middle Class,Financial Strain,Competitive,Reading,5,57,Journalism
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Low Income,Financial Strain,Collaborative,Video Gaming,7,70,Banking
+Arts,"['Literature', 'History']",['Geography' 'Literature'],Finance,Introverted,Middle Class,Financial Strain,Competitive,Traveling,4,88,Journalism
+Commerce,['Economics'],['Economics' 'Economics'],Business,Extroverted,Low Income,Financially Stable,Collaborative,Cooking,4,68,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Introverted,Highly Educated,Moderate,Flexible,Video Gaming,7,72,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Low Income,Financial Strain,Flexible,Teaching,7,60,Banking
+Science,['Computer Science'],['Chemistry' 'Computer Science'],Sports,Extroverted,Middle Class,Moderate,Competitive,Traveling,7,60,Computer Engineering
+Arts,['Economics'],['History' 'Literature'],Finance,Introverted,Highly Educated,Moderate,Flexible,Gardening,7,73,Journalism
+Science,['Physics'],['Chemistry' 'Mathematics'],Finance,Introverted,Low Income,Financial Strain,Collaborative,Teaching,5,85,Engineering
+Arts,['Geography'],['Literature' 'History'],Finance,Extroverted,Low Income,Financial Strain,Flexible,Video Gaming,4,89,Marketing
+Arts,['Geography'],['History' 'Literature'],Business,Extroverted,Low Income,Moderate,Competitive,Photography,6,73,Journalism
+Commerce,['Economics'],['Economics' 'Economics'],Business,Extroverted,Middle Class,Financial Strain,Competitive,Reading,4,52,Accounting
+Arts,['History'],['History' 'Geography'],Science,Introverted,Middle Class,Moderate,Competitive,Traveling,4,71,Journalism
+Science,['Chemistry'],['Computer Science' 'Mathematics'],Business,Extroverted,Low Income,Moderate,Collaborative,Reading,3,51,Engineering
+Science,"['Mathematics', 'Chemistry']",['Computer Science' 'Biology'],Sports,Extroverted,Highly Educated,Financial Strain,Collaborative,Teaching,7,73,Engineering
+Science,"['Physics', 'Chemistry']",['Chemistry' 'Physics'],Sports,Introverted,Highly Educated,Financially Stable,Collaborative,Traveling,7,93,Engineering
+Arts,['Geography'],['History' 'Literature'],Business,Extroverted,Middle Class,Financial Strain,Collaborative,Sports,7,79,Journalism
+Science,['Chemistry'],['Chemistry' 'Biology'],Music,Extroverted,Highly Educated,Financially Stable,Collaborative,Sports,3,87,Engineering
+Arts,['Geography'],['Geography' 'Literature'],Technology,Extroverted,Middle Class,Moderate,Flexible,Video Gaming,5,51,Movie Artist
+Science,['Biology'],['Biology' 'Mathematics'],Business,Introverted,Low Income,Moderate,Collaborative,Gardening,5,70,Medical Doctor
+Science,['Chemistry'],['Biology' 'Mathematics'],Finance,Introverted,Middle Class,Financially Stable,Collaborative,Sports,6,82,Engineering
+Arts,['Economics'],['History' 'Literature'],Art,Introverted,Middle Class,Moderate,Flexible,Sports,5,61,Movie Artist
+Science,"['Chemistry', 'Biology']",['Mathematics' 'Biology'],Technology,Introverted,Low Income,Financially Stable,Collaborative,Cooking,5,71,Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Highly Educated,Financially Stable,Competitive,Reading,7,93,Software Engineering
+Arts,['Economics'],['History' 'Geography'],Sports,Introverted,Middle Class,Moderate,Collaborative,Reading,4,74,Sports
+Arts,['History'],['History' 'Geography'],Technology,Introverted,Middle Class,Financially Stable,Collaborative,Sports,5,98,Movie Artist
+Arts,['History'],['Geography' 'Literature'],Business,Extroverted,Low Income,Financial Strain,Competitive,Cooking,5,76,Journalism
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Highly Educated,Financial Strain,Competitive,Reading,3,91,Banking
+Arts,['Geography'],['History' 'Geography'],Finance,Extroverted,Middle Class,Moderate,Competitive,Reading,6,77,Journalism
+Science,['Biology'],['Physics' 'Biology'],Science,Introverted,Low Income,Moderate,Competitive,Traveling,3,65,Lab Scientist
+Science,['Computer Science'],['Biology' 'Mathematics'],Finance,Introverted,Middle Class,Financially Stable,Collaborative,Traveling,7,64,Software Engineering
+Science,['Computer Science'],['Chemistry' 'Physics'],Finance,Introverted,Low Income,Financially Stable,Competitive,Cooking,4,96,Software Engineering
+Arts,"['Geography', 'Economics']",['Geography' 'History'],Sports,Extroverted,Highly Educated,Financially Stable,Competitive,Teaching,6,93,Journalism
+Science,['Chemistry'],['Computer Science' 'Biology'],Finance,Extroverted,Highly Educated,Financially Stable,Flexible,Gardening,3,52,Software Engineering
+Arts,['Economics'],['History' 'Literature'],Science,Introverted,Highly Educated,Financial Strain,Competitive,Video Gaming,5,86,Movie Artist
+Science,['Chemistry'],['Biology' 'Computer Science'],Art,Extroverted,Highly Educated,Financial Strain,Competitive,Sports,5,56,Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Business,Extroverted,Middle Class,Moderate,Flexible,Sports,6,70,Accounting
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financially Stable,Flexible,Video Gaming,5,58,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Highly Educated,Financially Stable,Collaborative,Sports,3,88,Movie Artist
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Highly Educated,Moderate,Flexible,Sports,3,67,Sports
+Arts,['Economics'],['Geography' 'History'],Music,Extroverted,Highly Educated,Financially Stable,Collaborative,Teaching,5,53,Movie Artist
+Science,['Chemistry'],['Chemistry' 'Biology'],Technology,Introverted,Middle Class,Financially Stable,Flexible,Reading,5,74,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Financially Stable,Flexible,Gardening,7,63,Marketing
+Arts,['Geography'],['Geography' 'History'],Finance,Extroverted,Highly Educated,Financially Stable,Collaborative,Sports,4,99,Journalism
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Highly Educated,Financially Stable,Flexible,Cooking,6,58,Movie Artist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Low Income,Moderate,Collaborative,Teaching,3,75,Accounting
+Arts,['Literature'],['Literature' 'History'],Technology,Introverted,Highly Educated,Financially Stable,Flexible,Sports,6,51,Journalism
+Arts,['Literature'],['Geography' 'History'],Sports,Extroverted,Low Income,Moderate,Competitive,Cooking,7,69,Movie Artist
+Science,['Physics'],['Computer Science' 'Chemistry'],Technology,Extroverted,Low Income,Financially Stable,Flexible,Traveling,3,77,Engineering
+Science,['Computer Science'],['Biology' 'Physics'],Science,Extroverted,Highly Educated,Financial Strain,Collaborative,Reading,7,96,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Low Income,Financial Strain,Flexible,Photography,7,56,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Highly Educated,Financial Strain,Collaborative,Sports,5,93,Accounting
+Science,['Computer Science'],['Computer Science' 'Chemistry'],Technology,Extroverted,Middle Class,Financial Strain,Collaborative,Cooking,6,57,Software Engineering
+Science,['Biology'],['Chemistry' 'Physics'],Buisiness,Extroverted,Middle Class,Moderate,Competitive,Teaching,6,96,Medical Doctor
+Arts,['Literature'],['Literature' 'Geography'],Science,Introverted,Middle Class,Moderate,Competitive,Reading,5,84,Journalism
+Science,['Mathematics'],['Physics' 'Computer Science'],Art,Extroverted,Middle Class,Financially Stable,Collaborative,Gardening,6,63,Engineering
+Science,['Mathematics'],['Computer Science' 'Biology'],Finance,Introverted,Low Income,Financial Strain,Flexible,Teaching,5,66,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Highly Educated,Moderate,Collaborative,Traveling,3,85,Banking
+Science,['Chemistry'],['Mathematics' 'Chemistry'],Music,Extroverted,Highly Educated,Financially Stable,Collaborative,Video Gaming,7,99,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Financially Stable,Flexible,Sports,7,89,Banking
+Science,"['Biology', 'Physics']",['Physics' 'Biology'],Sports,Introverted,Middle Class,Moderate,Flexible,Gardening,6,53,Lab Scientist
+Arts,['Economics'],['Geography' 'History'],Buisiness,Extroverted,Middle Class,Financial Strain,Flexible,Cooking,4,51,Marketing
+Science,['Computer Science'],['Biology' 'Physics'],Technology,Extroverted,Highly Educated,Financially Stable,Flexible,Sports,7,55,Software Engineering
+Science,['Chemistry'],['Physics' 'Mathematics'],Music,Extroverted,Middle Class,Financial Strain,Collaborative,Cooking,5,91,Music Artist
+Science,"['Physics', 'Chemistry']",['Computer Science' 'Biology'],Sports,Introverted,Highly Educated,Financial Strain,Collaborative,Gardening,4,53,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Highly Educated,Financial Strain,Competitive,Cooking,4,78,Sports
+Arts,['Literature'],['Literature' 'History'],Science,Introverted,Highly Educated,Financially Stable,Collaborative,Teaching,7,67,Journalism
+Science,['Computer Science'],['Physics' 'Chemistry'],Finance,Introverted,Highly Educated,Financial Strain,Flexible,Reading,7,75,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Highly Educated,Financially Stable,Competitive,Cooking,7,93,Movie Artist
+Arts,['Economics'],['Geography' 'History'],Art,Introverted,Highly Educated,Financial Strain,Flexible,Traveling,5,83,Movie Artist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Highly Educated,Financially Stable,Collaborative,Reading,4,59,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Extroverted,Middle Class,Financial Strain,Competitive,Teaching,6,85,Accounting
+Arts,['Literature'],['History' 'Geography'],Art,Extroverted,Highly Educated,Moderate,Flexible,Sports,5,63,Movie Artist
+Science,['Biology'],['Physics' 'Computer Science'],Technology,Extroverted,Highly Educated,Financial Strain,Competitive,Photography,3,80,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Middle Class,Financial Strain,Competitive,Sports,7,97,Movie Artist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Middle Class,Financially Stable,Collaborative,Cooking,4,64,Music Artist
+Science,['Computer Science'],['Computer Science' 'Chemistry'],Art,Introverted,Middle Class,Financially Stable,Flexible,Cooking,5,57,Software Engineering
+Science,['Physics'],['Mathematics' 'Computer Science'],Technology,Extroverted,Highly Educated,Financial Strain,Competitive,Traveling,3,63,Engineering
+Arts,['Literature'],['History' 'Literature'],Science,Extroverted,Low Income,Moderate,Competitive,Teaching,5,72,Journalism
+Arts,['Geography'],['History' 'Literature'],Buisiness,Introverted,Low Income,Moderate,Flexible,Traveling,5,89,Movie Artist
+Arts,['History'],['Geography' 'Literature'],Music,Introverted,Middle Class,Financially Stable,Competitive,Video Gaming,6,70,Music Artist
+Science,['Biology'],['Chemistry' 'Biology'],Science,Introverted,Low Income,Moderate,Competitive,Teaching,6,65,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Middle Class,Financial Strain,Competitive,Gardening,5,94,Accounting
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Financially Stable,Flexible,Gardening,3,67,Accounting
+Arts,['Geography'],['Literature' 'Geography'],Sports,Extroverted,Low Income,Financial Strain,Flexible,Gardening,4,96,Movie Artist
+Science,['Mathematics'],['Physics' 'Chemistry'],Buisiness,Introverted,Highly Educated,Financially Stable,Flexible,Traveling,4,73,Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Low Income,Financially Stable,Flexible,Gardening,7,75,Banking
+Arts,['Literature'],['Literature' 'History'],Buisiness,Introverted,Highly Educated,Financially Stable,Collaborative,Teaching,7,74,Journalism
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Low Income,Financially Stable,Competitive,Gardening,4,94,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Moderate,Flexible,Photography,5,90,Banking
+Science,"['Mathematics', 'Physics']",['Computer Science' 'Mathematics'],Buisiness,Extroverted,Highly Educated,Financial Strain,Competitive,Gardening,5,78,Engineering
+Science,"['Chemistry', 'Biology']",['Computer Science' 'Biology'],Science,Introverted,Low Income,Financial Strain,Competitive,Cooking,6,64,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Financial Strain,Collaborative,Video Gaming,6,94,Music Artist
+Arts,['Economics'],['Literature' 'Geography'],Finance,Extroverted,Highly Educated,Financially Stable,Flexible,Traveling,7,50,Journalism
+Science,['Mathematics'],['Chemistry' 'Mathematics'],Technology,Introverted,Highly Educated,Moderate,Flexible,Reading,4,74,Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Low Income,Financial Strain,Competitive,Video Gaming,5,56,Accounting
+Science,['Computer Science'],['Chemistry' 'Mathematics'],Art,Extroverted,Low Income,Moderate,Flexible,Photography,4,58,Lab Scientist
+Science,['Computer Science'],['Physics' 'Mathematics'],Finance,Introverted,Highly Educated,Financially Stable,Competitive,Traveling,3,73,Banking
+Science,['Computer Science'],['Chemistry' 'Biology'],Music,Extroverted,Highly Educated,Financial Strain,Competitive,Teaching,4,50,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Low Income,Moderate,Collaborative,Sports,3,93,Sports Coaching
+Arts,['Economics'],['Geography' 'History'],Science,Extroverted,Low Income,Financially Stable,Collaborative,Traveling,6,57,Environmental Scientist
+Arts,['Geography'],['History' 'Literature'],Art,Extroverted,Highly Educated,Moderate,Collaborative,Cooking,6,73,Teaching
+Arts,['Economics'],['History' 'Geography'],Technology,Extroverted,Highly Educated,Financial Strain,Competitive,Teaching,7,60,Software Engineering
+Science,"['Biology', 'Physics']",['Mathematics' 'Chemistry'],Sports,Introverted,Highly Educated,Financial Strain,Flexible,Video Gaming,4,66,Physical Therapy
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financially Stable,Collaborative,Video Gaming,4,57,Sports Coaching
+Science,"['Computer Science', 'Biology']",['Mathematics' 'Physics'],Science,Extroverted,Low Income,Financially Stable,Flexible,Gardening,3,84,Lab Scientist
+Arts,['Literature'],['Literature' 'History'],Finance,Extroverted,Middle Class,Financially Stable,Collaborative,Teaching,6,84,Accounting
+Arts,['Literature'],['History' 'Literature'],Technology,Extroverted,Low Income,Moderate,Collaborative,Sports,3,82,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Low Income,Moderate,Competitive,Cooking,6,54,Music Artist
+Science,['Physics'],['Mathematics' 'Chemistry'],Sports,Introverted,Low Income,Moderate,Collaborative,Gardening,3,91,Meteorology Engineering
+Arts,['Geography'],['History' 'Literature'],Science,Extroverted,Low Income,Financially Stable,Collaborative,Gardening,6,88,Environmental Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Low Income,Financial Strain,Competitive,Sports,3,90,Music Artist
+Science,['Biology'],['Biology' 'Mathematics'],Finance,Introverted,Low Income,Financial Strain,Flexible,Traveling,6,77,Accounting
+Science,['Chemistry'],['Chemistry' 'Biology'],Technology,Introverted,Low Income,Moderate,Collaborative,Video Gaming,3,56,Lab Technician
+Arts,['Economics'],['Literature' 'Geography'],Finance,Introverted,Middle Class,Moderate,Competitive,Gardening,4,58,Accounting
+Arts,['Geography'],['Geography' 'Literature'],Sports,Extroverted,Highly Educated,Financial Strain,Collaborative,Photography,7,57,Sports Coaching
+Science,"['Physics', 'Computer Science']",['Mathematics' 'Biology'],Music,Introverted,Highly Educated,Financial Strain,Competitive,Photography,3,61,Software Engineering
+Science,['Chemistry'],['Computer Science' 'Biology'],Music,Introverted,Middle Class,Moderate,Flexible,Video Gaming,7,83,Music Artist
+Arts,"['Economics', 'History']",['Literature' 'Geography'],Music,Extroverted,Middle Class,Moderate,Flexible,Photography,4,82,Music Artist
+Science,['Chemistry'],['Biology' 'Computer Science'],Sports,Extroverted,Middle Class,Financial Strain,Competitive,Sports,4,97,Sports Coaching
+Arts,['Economics'],['History' 'Geography'],Sports,Extroverted,Middle Class,Financially Stable,Competitive,Traveling,6,72,Sports Coaching
+Science,['Chemistry'],['Mathematics' 'Physics'],Finance,Introverted,Low Income,Moderate,Competitive,Cooking,7,73,Accounting
+Arts,['Economics'],['Literature' 'Geography'],Art,Extroverted,Highly Educated,Financial Strain,Flexible,Reading,5,86,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Low Income,Financial Strain,Collaborative,Gardening,6,84,Accounting
+Arts,['Literature'],['Geography' 'Literature'],Technology,Introverted,Highly Educated,Financial Strain,Flexible,Reading,7,93,Software Engineering
+Arts,['Literature'],['Literature' 'Geography'],Science,Extroverted,Highly Educated,Financial Strain,Competitive,Cooking,3,89,Environmental Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Low Income,Moderate,Competitive,Cooking,6,71,Music Artist
+Science,['Physics'],['Mathematics' 'Chemistry'],Sports,Introverted,Low Income,Moderate,Collaborative,Gardening,3,91,Meteorology Engineering
+Arts,['Geography'],['History' 'Geography'],Art,Introverted,Low Income,Financially Stable,Flexible,Photography,3,50,Artist
+Science,"['Biology', 'Physics']",['Physics' 'Mathematics'],Buisiness,Extroverted,Highly Educated,Financial Strain,Competitive,Photography,7,84,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Middle Class,Financially Stable,Collaborative,Sports,7,86,Accounting
+Science,['Chemistry'],['Mathematics' 'Chemistry'],Sports,Introverted,Middle Class,Moderate,Collaborative,Cooking,3,96,Physical Therapy
+Science,['Biology'],['Mathematics' 'Chemistry'],Music,Extroverted,Highly Educated,Financial Strain,Competitive,Traveling,7,63,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Moderate,Flexible,Traveling,7,52,Banking
+Science,"['Computer Science', 'Biology']",['Physics' 'Biology'],Science,Extroverted,Highly Educated,Financial Strain,Collaborative,Video Gaming,4,50,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Middle Class,Financial Strain,Flexible,Teaching,5,54,Teaching
+Arts,['Economics'],['History' 'Literature'],Buisiness,Introverted,Low Income,Financial Strain,Competitive,Gardening,4,75,Journalism
+Science,"['Physics', 'Biology']",['Chemistry' 'Physics'],Buisiness,Introverted,Middle Class,Financial Strain,Flexible,Sports,5,63,Meteorology Engineering
+Arts,['Geography'],['Geography' 'Literature'],Science,Introverted,Low Income,Financial Strain,Collaborative,Teaching,7,88,Environmental Scientist
+Arts,['History'],['Literature' 'Geography'],Science,Extroverted,Middle Class,Financially Stable,Flexible,Sports,5,76,Environmental Scientist
+Science,['Chemistry'],['Mathematics' 'Physics'],Science,Introverted,Middle Class,Financial Strain,Flexible,Photography,7,58,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Financial Strain,Competitive,Cooking,7,64,Software Engineering
+Science,['Chemistry'],['Mathematics' 'Biology'],Buisiness,Introverted,Low Income,Financially Stable,Competitive,Sports,4,64,Environmental Scientist
+Arts,"['Geography', 'Literature']",['Literature' 'History'],Buisiness,Introverted,Middle Class,Financially Stable,Competitive,Sports,4,75,Journalism
+Arts,['Literature'],['Literature' 'Geography'],Art,Introverted,Middle Class,Financially Stable,Collaborative,Video Gaming,6,91,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Highly Educated,Financially Stable,Collaborative,Reading,3,62,Banking
+Science,['Mathematics'],['Chemistry' 'Mathematics'],Music,Introverted,Highly Educated,Financially Stable,Competitive,Photography,6,81,Journalism
+Arts,['Economics'],['Geography' 'History'],Sports,Extroverted,Low Income,Financially Stable,Competitive,Gardening,6,88,Marketing
+Arts,['Geography'],['Geography' 'History'],Buisiness,Extroverted,Middle Class,Financial Strain,Collaborative,Traveling,5,98,Banking
+Arts,['Geography'],['Literature' 'Geography'],Sports,Extroverted,Low Income,Financial Strain,Collaborative,Cooking,7,81,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Middle Class,Moderate,Collaborative,Photography,7,53,Accounting
+Arts,"['Literature', 'History']",['Geography' 'History'],Finance,Extroverted,Low Income,Financial Strain,Collaborative,Reading,7,79,Accounting
+Arts,['History'],['History' 'Literature'],Sports,Extroverted,Highly Educated,Financial Strain,Competitive,Sports,3,86,Teaching
+Science,['Computer Science'],['Computer Science' 'Physics'],Buisiness,Extroverted,Middle Class,Financially Stable,Collaborative,Gardening,5,72,Software Engineering
+Science,"['Computer Science', 'Physics']",['Biology' 'Chemistry'],Sports,Extroverted,Low Income,Financially Stable,Competitive,Sports,5,88,Software Engineering
+Arts,['History'],['Geography' 'History'],Art,Extroverted,Highly Educated,Financial Strain,Flexible,Gardening,7,94,Movie Artist
+Arts,['Geography'],['History' 'Geography'],Technology,Introverted,Highly Educated,Moderate,Flexible,Video Gaming,6,64,Software Engineering
+Science,"['Mathematics', 'Computer Science']",['Chemistry' 'Physics'],Buisiness,Introverted,Low Income,Financially Stable,Collaborative,Sports,3,92,Business
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Middle Class,Financial Strain,Flexible,Photography,6,78,Business
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Middle Class,Financial Strain,Flexible,Reading,4,85,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Highly Educated,Moderate,Flexible,Gardening,5,62,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Middle Class,Moderate,Collaborative,Cooking,5,81,Network Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Middle Class,Financially Stable,Collaborative,Gardening,6,56,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Extroverted,Middle Class,Moderate,Flexible,Reading,3,71,Business
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Highly Educated,Financial Strain,Competitive,Traveling,5,77,Sports Management
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Low Income,Financial Strain,Flexible,Traveling,6,51,Software Engineering
+Science,['Physics'],['Biology' 'Chemistry'],Music,Extroverted,Middle Class,Moderate,Collaborative,Video Gaming,3,91,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Highly Educated,Moderate,Collaborative,Photography,6,94,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Highly Educated,Moderate,Collaborative,Reading,3,55,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Low Income,Moderate,Flexible,Video Gaming,7,77,Lab Scientist
+Arts,['History'],['Geography' 'Literature'],Music,Introverted,Middle Class,Financially Stable,Competitive,Teaching,3,77,Music Artist
+Science,['Computer Science'],['Computer Science' 'Biology'],Music,Introverted,Middle Class,Moderate,Collaborative,Gardening,4,93,Music Artist
+Science,['Chemistry'],['Physics' 'Chemistry'],Sports,Extroverted,Low Income,Financially Stable,Collaborative,Teaching,7,93,Sports Management
+Science,['Mathematics'],['Mathematics' 'Physics'],Buisiness,Extroverted,Low Income,Financial Strain,Flexible,Gardening,6,69,Business
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Moderate,Competitive,Traveling,7,79,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Financially Stable,Flexible,Video Gaming,7,60,Banking
+Arts,['Economics'],['History' 'Geography'],Technology,Extroverted,Low Income,Moderate,Collaborative,Traveling,6,77,Software Engineering
+Science,['Computer Science'],['Computer Science' 'Chemistry'],Finance,Extroverted,Middle Class,Financial Strain,Competitive,Cooking,6,74,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Highly Educated,Financial Strain,Competitive,Teaching,4,88,Teaching
+Science,"['Biology', 'Chemistry']",['Chemistry' 'Physics'],Art,Introverted,Highly Educated,Financial Strain,Collaborative,Teaching,6,82,Movie Artist
+Arts,['History'],['Geography' 'Literature'],Music,Extroverted,Middle Class,Moderate,Competitive,Traveling,5,50,Music Artist
+Arts,['Economics'],['Geography' 'Literature'],Sports,Introverted,Highly Educated,Moderate,Competitive,Cooking,5,76,Sports Management
+Arts,['History'],['Geography' 'History'],Art,Introverted,Middle Class,Financially Stable,Flexible,Gardening,4,62,Movie Artist
+Science,['Mathematics'],['Physics' 'Chemistry'],Science,Introverted,Middle Class,Financial Strain,Collaborative,Video Gaming,3,90,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Middle Class,Moderate,Collaborative,Cooking,3,52,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Low Income,Financial Strain,Collaborative,Video Gaming,5,88,Banking
+Arts,"['History', 'Literature']",['Geography' 'History'],Music,Introverted,Low Income,Financial Strain,Collaborative,Teaching,6,55,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Low Income,Financially Stable,Collaborative,Video Gaming,4,57,Business
+Arts,['History'],['History' 'Geography'],Buisiness,Extroverted,Middle Class,Financially Stable,Competitive,Teaching,3,76,Business
+Science,['Mathematics'],['Chemistry' 'Computer Science'],Technology,Extroverted,Middle Class,Financially Stable,Flexible,Cooking,3,58,Software Engineering
+Arts,['History'],['History' 'Literature'],Music,Introverted,Low Income,Financially Stable,Collaborative,Teaching,7,86,Music Artist
+Science,"['Biology', 'Computer Science']",['Physics' 'Computer Science'],Technology,Extroverted,Highly Educated,Financial Strain,Flexible,Sports,5,82,Software Engineering
+Arts,['Literature'],['Geography' 'History'],Buisiness,Introverted,Middle Class,Financially Stable,Flexible,Photography,6,91,Business
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Financially Stable,Competitive,Teaching,4,93,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Financially Stable,Collaborative,Traveling,3,73,Banking
+Arts,['Economics'],['Geography' 'History'],Music,Introverted,Middle Class,Financially Stable,Competitive,Cooking,7,64,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Extroverted,Middle Class,Financial Strain,Collaborative,Sports,5,81,Business
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Introverted,Highly Educated,Financially Stable,Competitive,Gardening,5,81,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Highly Educated,Financial Strain,Flexible,Video Gaming,4,73,Network Engineering
+Science,['Mathematics'],['Physics' 'Biology'],Music,Extroverted,Low Income,Moderate,Collaborative,Sports,3,90,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Low Income,Financial Strain,Flexible,Reading,4,98,Teaching
+Science,['Biology'],['Physics' 'Computer Science'],Sports,Extroverted,Middle Class,Financial Strain,Flexible,Sports,4,98,Sports Management
+Arts,"['Geography', 'Literature']",['Literature' 'Geography'],Buisiness,Introverted,Low Income,Financially Stable,Competitive,Cooking,7,61,Business
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Low Income,Moderate,Collaborative,Sports,5,88,Sports Management
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Low Income,Moderate,Flexible,Sports,6,51,Sports Management
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Low Income,Moderate,Competitive,Traveling,5,52,Software Engineering
+Arts,['History'],['History' 'Geography'],Technology,Extroverted,Highly Educated,Moderate,Collaborative,Teaching,5,98,Network Engineering
+Science,['Computer Science'],['Physics' 'Computer Science'],Art,Introverted,Middle Class,Financial Strain,Collaborative,Video Gaming,7,86,Movie Artist
+Science,['Computer Science'],['Biology' 'Computer Science'],Sports,Introverted,Low Income,Moderate,Flexible,Photography,6,98,Sports Management
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Highly Educated,Financial Strain,Collaborative,Gardening,3,66,Sports Management
+Arts,"['Economics', 'Literature']",['History' 'Geography'],Music,Extroverted,Highly Educated,Financial Strain,Flexible,Photography,6,98,Music Artist
+Arts,['History'],['History' 'Geography'],Technology,Extroverted,Highly Educated,Financial Strain,Collaborative,Sports,3,51,Network Engineering
+Arts,['Geography'],['Geography' 'Literature'],Sports,Introverted,Low Income,Moderate,Competitive,Reading,6,51,Sports Management
+Arts,"['Geography', 'Literature']",['Literature' 'History'],Finance,Introverted,Low Income,Financially Stable,Flexible,Cooking,4,77,Banking
+Arts,['History'],['Geography' 'History'],Art,Introverted,Middle Class,Financially Stable,Flexible,Video Gaming,6,72,Movie Artist
+Science,['Biology'],['Mathematics' 'Chemistry'],Finance,Introverted,Low Income,Moderate,Collaborative,Cooking,7,86,Banking
+Science,"['Computer Science', 'Mathematics']",['Computer Science' 'Physics'],Finance,Extroverted,Low Income,Financially Stable,Collaborative,Traveling,3,81,Banking
+Science,['Mathematics'],['Chemistry' 'Computer Science'],Buisiness,Introverted,Highly Educated,Financially Stable,Flexible,Cooking,5,82,Business
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Middle Class,Financial Strain,Collaborative,Gardening,7,50,Business
+Arts,['Geography'],['Literature' 'Geography'],Art,Introverted,Low Income,Financial Strain,Competitive,Reading,3,68,Movie Artist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Low Income,Moderate,Collaborative,Photography,3,51,Accounting
+Arts,['Economics'],['Literature' 'Geography'],Sports,Extroverted,Highly Educated,Moderate,Competitive,Sports,5,93,Sports Management
+Science,"['Biology', 'Chemistry']",['Mathematics' 'Computer Science'],Technology,Introverted,Highly Educated,Financially Stable,Competitive,Sports,4,75,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Low Income,Financial Strain,Competitive,Reading,7,81,Movie Artist
+Science,['Chemistry'],['Biology' 'Physics'],Music,Introverted,Middle Class,Moderate,Competitive,Video Gaming,5,55,Music Artist
+Arts,['Literature'],['Literature' 'Geography'],Finance,Introverted,Middle Class,Moderate,Competitive,Cooking,5,81,Banking
+Arts,['Geography'],['Literature' 'History'],Art,Extroverted,Highly Educated,Moderate,Collaborative,Video Gaming,4,53,Movie Artist
+Arts,['Literature'],['History' 'Geography'],Science,Introverted,Highly Educated,Moderate,Competitive,Photography,7,60,Network Engineering
+Science,"['Computer Science', 'Chemistry']",['Biology' 'Physics'],Science,Extroverted,Low Income,Moderate,Collaborative,Video Gaming,5,66,Lab Scientist
+Arts,['History'],['Geography' 'History'],Buisiness,Extroverted,Highly Educated,Moderate,Competitive,Traveling,4,87,Business
+Science,"['Biology', 'Mathematics']",['Biology' 'Computer Science'],Technology,Introverted,Low Income,Financially Stable,Flexible,Reading,7,73,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financial Strain,Competitive,Photography,6,54,Sports Management
+Arts,['Geography'],['Literature' 'Geography'],Technology,Extroverted,Middle Class,Financial Strain,Flexible,Photography,3,83,Software Engineering
+Arts,['History'],['Geography' 'History'],Technology,Extroverted,Low Income,Moderate,Competitive,Teaching,4,55,Network Engineering
+Arts,['Geography'],['History' 'Literature'],Technology,Extroverted,Highly Educated,Financial Strain,Competitive,Photography,3,71,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Middle Class,Financial Strain,Competitive,Teaching,6,60,Software Engineering
+Arts,['Geography'],['Literature' 'Geography'],Music,Extroverted,Highly Educated,Financial Strain,Flexible,Gardening,5,97,Music Artist
+Science,['Mathematics'],['Physics' 'Chemistry'],Music,Extroverted,Middle Class,Moderate,Flexible,Sports,5,65,Music Artist
+Science,"['Biology', 'Chemistry']",['Physics' 'Mathematics'],Buisiness,Extroverted,Low Income,Moderate,Competitive,Teaching,7,82,Business
+Arts,"['History', 'Economics']",['History' 'Literature'],Art,Introverted,Low Income,Financial Strain,Collaborative,Reading,4,58,Movie Artist
+Arts,['Geography'],['History' 'Geography'],Science,Introverted,Low Income,Financial Strain,Competitive,Video Gaming,4,55,Network Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Middle Class,Moderate,Flexible,Teaching,7,65,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Highly Educated,Financially Stable,Competitive,Photography,3,78,Business
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Highly Educated,Financial Strain,Flexible,Reading,5,52,Movie Artist
+Arts,['History'],['History' 'Geography'],Science,Extroverted,Highly Educated,Financially Stable,Flexible,Teaching,5,69,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Middle Class,Financial Strain,Flexible,Teaching,4,85,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financially Stable,Competitive,Photography,4,68,Marketing
+Science,"['Computer Science', 'Physics']",['Chemistry' 'Biology'],Music,Extroverted,Middle Class,Financially Stable,Flexible,Traveling,7,75,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Middle Class,Financially Stable,Flexible,Traveling,6,52,Banking
+Science,['Biology'],['Computer Science' 'Mathematics'],Science,Extroverted,Middle Class,Moderate,Competitive,Teaching,3,68,Lab Scientist
+Science,['Chemistry'],['Physics' 'Mathematics'],Finance,Introverted,Highly Educated,Financially Stable,Flexible,Traveling,6,69,Accounting
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financially Stable,Competitive,Cooking,6,81,Sports
+Science,['Mathematics'],['Biology' 'Chemistry'],Buisiness,Extroverted,Middle Class,Financially Stable,Flexible,Photography,4,56,Marketing
+Arts,['History'],['Literature' 'History'],Science,Extroverted,Highly Educated,Financial Strain,Collaborative,Cooking,4,90,Law and Political Science
+Arts,['Literature'],['Geography' 'History'],Finance,Introverted,Middle Class,Financially Stable,Collaborative,Reading,4,82,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Highly Educated,Financial Strain,Flexible,Cooking,6,89,Marketing
+Arts,['Literature'],['Geography' 'Literature'],Music,Introverted,Highly Educated,Financially Stable,Collaborative,Reading,3,88,Journalism
+Science,['Chemistry'],['Biology' 'Physics'],Art,Introverted,Low Income,Financially Stable,Competitive,Teaching,4,67,Medical Doctor
+Arts,['Literature'],['History' 'Geography'],Finance,Extroverted,Low Income,Moderate,Collaborative,Reading,5,89,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Low Income,Financial Strain,Flexible,Reading,3,50,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Low Income,Financially Stable,Flexible,Video Gaming,5,60,Banking
+Science,['Biology'],['Mathematics' 'Chemistry'],Buisiness,Extroverted,Middle Class,Financial Strain,Competitive,Cooking,3,77,Marketing
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Low Income,Financial Strain,Flexible,Video Gaming,4,74,Lab Scientist
+Arts,['Economics'],['History' 'Geography'],Science,Introverted,Highly Educated,Moderate,Competitive,Teaching,7,99,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Extroverted,Middle Class,Moderate,Collaborative,Photography,4,72,Marketing
+Science,['Mathematics'],['Computer Science' 'Biology'],Finance,Extroverted,Low Income,Moderate,Collaborative,Cooking,6,80,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Highly Educated,Moderate,Competitive,Photography,6,79,Marketing
+Arts,['History'],['Literature' 'Geography'],Sports,Introverted,Middle Class,Moderate,Competitive,Photography,3,91,Sports
+Science,['Computer Science'],['Mathematics' 'Computer Science'],Buisiness,Introverted,Middle Class,Moderate,Flexible,Reading,6,84,Software Engineering
+Arts,['Geography'],['Literature' 'Geography'],Music,Introverted,Low Income,Moderate,Collaborative,Sports,4,56,Music Artist
+Science,['Computer Science'],['Mathematics' 'Chemistry'],Buisiness,Extroverted,Middle Class,Moderate,Competitive,Cooking,5,65,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Financially Stable,Collaborative,Photography,4,75,Lab Scientist
+Science,"['Mathematics', 'Biology']",['Computer Science' 'Chemistry'],Music,Extroverted,Middle Class,Financial Strain,Competitive,Sports,3,97,Medical Doctor
+Science,"['Chemistry', 'Physics']",['Biology' 'Mathematics'],Science,Extroverted,Highly Educated,Moderate,Collaborative,Traveling,6,98,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Middle Class,Moderate,Flexible,Photography,5,51,Art
+Arts,"['Literature', 'Economics']",['Literature' 'Geography'],Technology,Introverted,Low Income,Financial Strain,Collaborative,Traveling,7,50,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Financially Stable,Collaborative,Cooking,5,97,Lab Scientist
+Science,"['Chemistry', 'Physics']",['Biology' 'Mathematics'],Music,Extroverted,Middle Class,Financial Strain,Collaborative,Teaching,5,61,Medical Doctor
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Middle Class,Financial Strain,Collaborative,Video Gaming,4,54,Art
+Science,['Chemistry'],['Physics' 'Biology'],Science,Extroverted,Middle Class,Moderate,Collaborative,Cooking,7,86,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Highly Educated,Financial Strain,Flexible,Video Gaming,3,81,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Highly Educated,Financial Strain,Competitive,Video Gaming,3,58,Software Engineering
+Arts,['Geography'],['Geography' 'History'],Technology,Introverted,Highly Educated,Moderate,Collaborative,Cooking,5,90,Software Engineering
+Science,['Biology'],['Computer Science' 'Chemistry'],Science,Introverted,Low Income,Moderate,Flexible,Photography,5,84,Lab Scientist
+Arts,['History'],['Literature' 'Geography'],Art,Extroverted,Low Income,Moderate,Collaborative,Gardening,6,68,Art
+Science,['Physics'],['Biology' 'Computer Science'],Sports,Introverted,Highly Educated,Moderate,Collaborative,Photography,7,97,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Middle Class,Financial Strain,Competitive,Photography,5,65,Banking
+Science,['Computer Science'],['Computer Science' 'Biology'],Art,Extroverted,Low Income,Financial Strain,Collaborative,Teaching,6,52,Lab Scientist
+Arts,['Geography'],['Literature' 'Geography'],Buisiness,Extroverted,Highly Educated,Financially Stable,Flexible,Reading,7,69,Marketing
+Arts,['Economics'],['Geography' 'Literature'],Art,Extroverted,Middle Class,Financially Stable,Flexible,Reading,3,73,Art
+Arts,['Literature'],['History' 'Literature'],Sports,Introverted,Low Income,Financial Strain,Competitive,Photography,6,82,Sports
+Science,"['Physics', 'Biology']",['Physics' 'Biology'],Art,Introverted,Middle Class,Financially Stable,Collaborative,Traveling,7,73,Lab Scientist
+Arts,['Literature'],['Geography' 'Literature'],Sports,Extroverted,Middle Class,Financial Strain,Flexible,Teaching,6,60,Sports
+Arts,['History'],['History' 'Geography'],Science,Extroverted,Middle Class,Financially Stable,Collaborative,Video Gaming,5,98,Lab Scientist
+Arts,['Literature'],['Geography' 'Literature'],Sports,Introverted,Middle Class,Moderate,Collaborative,Sports,4,57,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Low Income,Financially Stable,Collaborative,Reading,3,85,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Low Income,Moderate,Competitive,Photography,5,87,Software Engineering
+Science,['Biology'],['Mathematics' 'Physics'],Sports,Extroverted,Low Income,Moderate,Collaborative,Teaching,5,89,Sports
+Science,['Mathematics'],['Computer Science' 'Physics'],Sports,Introverted,Highly Educated,Moderate,Flexible,Gardening,7,69,Sports
+Arts,['Literature'],['Geography' 'Literature'],Finance,Extroverted,Low Income,Moderate,Collaborative,Traveling,6,84,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Middle Class,Financially Stable,Flexible,Cooking,3,97,Lab Scientist
+Arts,"['Geography', 'Literature']",['History' 'Literature'],Buisiness,Introverted,Low Income,Financial Strain,Collaborative,Photography,5,74,Business
+Arts,['History'],['History' 'Geography'],Technology,Introverted,Middle Class,Moderate,Flexible,Teaching,7,84,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Financially Stable,Flexible,Photography,3,74,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Middle Class,Moderate,Collaborative,Sports,6,78,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Middle Class,Financially Stable,Collaborative,Video Gaming,5,67,Lab Scientist
+Science,['Biology'],['Chemistry' 'Biology'],Science,Introverted,Middle Class,Financially Stable,Flexible,Traveling,5,95,Lab Scientist
+Science,"['Chemistry', 'Computer Science']",['Physics' 'Biology'],Music,Introverted,Highly Educated,Financially Stable,Competitive,Reading,5,67,Software Engineering
+Arts,['Geography'],['History' 'Literature'],Buisiness,Introverted,Low Income,Financial Strain,Collaborative,Reading,3,51,Business
+Science,['Chemistry'],['Computer Science' 'Mathematics'],Sports,Introverted,Low Income,Financially Stable,Competitive,Reading,3,84,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Financially Stable,Collaborative,Sports,3,65,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Middle Class,Financial Strain,Collaborative,Cooking,3,90,Art
+Science,"['Physics', 'Biology']",['Mathematics' 'Chemistry'],Technology,Extroverted,Low Income,Financial Strain,Collaborative,Teaching,7,85,Software Engineering
+Arts,['Literature'],['Literature' 'Geography'],Art,Extroverted,Highly Educated,Financially Stable,Collaborative,Traveling,4,82,Art
+Arts,"['Geography', 'Literature']",['History' 'Geography'],Music,Extroverted,Low Income,Financial Strain,Competitive,Traveling,7,53,Music Artist
+Science,['Biology'],['Chemistry' 'Biology'],Science,Introverted,Highly Educated,Moderate,Collaborative,Reading,5,82,Lab Scientist
+Arts,['Economics'],['Literature' 'History'],Buisiness,Introverted,Middle Class,Moderate,Flexible,Reading,7,63,Business
+Arts,['History'],['Geography' 'Literature'],Science,Introverted,Low Income,Financial Strain,Flexible,Video Gaming,6,70,Lab Scientist
+Arts,"['Economics', 'History']",['Literature' 'History'],Technology,Introverted,Highly Educated,Financial Strain,Competitive,Sports,3,97,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Low Income,Financially Stable,Collaborative,Gardening,6,69,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Low Income,Financial Strain,Flexible,Gardening,6,57,Lab Scientist
+Science,['Chemistry'],['Chemistry' 'Physics'],Technology,Introverted,Low Income,Financially Stable,Competitive,Photography,5,56,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Low Income,Moderate,Collaborative,Photography,3,52,Banking
+Arts,"['Geography', 'History']",['Literature' 'History'],Finance,Extroverted,Highly Educated,Financial Strain,Flexible,Traveling,6,66,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Middle Class,Financially Stable,Flexible,Traveling,5,82,Software Engineering
+Science,['Computer Science'],['Physics' 'Computer Science'],Buisiness,Extroverted,Highly Educated,Financially Stable,Competitive,Cooking,3,97,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Moderate,Collaborative,Cooking,4,61,Music Artist
+Arts,['Literature'],['Geography' 'History'],Science,Extroverted,Highly Educated,Financial Strain,Collaborative,Gardening,5,71,Lab Scientist
+Arts,['Economics'],['Literature' 'History'],Buisiness,Extroverted,Middle Class,Moderate,Flexible,Sports,7,71,Business
+Science,['Computer Science'],['Chemistry' 'Biology'],Science,Extroverted,Low Income,Financially Stable,Flexible,Photography,3,95,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Low Income,Financially Stable,Flexible,Gardening,6,79,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Low Income,Financial Strain,Collaborative,Sports,6,87,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Middle Class,Financially Stable,Competitive,Gardening,7,87,Business
+Arts,['History'],['Literature' 'Geography'],Sports,Extroverted,Low Income,Financial Strain,Competitive,Photography,7,94,Sports
+Science,['Physics'],['Mathematics' 'Chemistry'],Sports,Extroverted,Middle Class,Moderate,Collaborative,Teaching,6,57,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Low Income,Financial Strain,Competitive,Cooking,3,76,Sports
+Arts,['Literature'],['History' 'Geography'],Finance,Extroverted,Low Income,Financial Strain,Flexible,Video Gaming,5,76,Banking
+Arts,['Geography'],['History' 'Geography'],Finance,Introverted,Highly Educated,Financially Stable,Competitive,Video Gaming,7,83,Banking
+Arts,['Economics'],['History' 'Literature'],Music,Introverted,Middle Class,Financially Stable,Competitive,Video Gaming,7,70,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Financial Strain,Competitive,Photography,7,79,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Highly Educated,Financially Stable,Flexible,Reading,4,82,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Highly Educated,Financially Stable,Collaborative,Reading,3,77,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Middle Class,Financially Stable,Flexible,Reading,3,96,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Middle Class,Financial Strain,Collaborative,Traveling,3,82,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Low Income,Financially Stable,Collaborative,Cooking,3,54,Art
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Highly Educated,Financial Strain,Collaborative,Cooking,3,97,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Low Income,Financially Stable,Competitive,Teaching,6,68,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Highly Educated,Moderate,Competitive,Teaching,7,53,Sports
+Arts,['Economics'],['Literature' 'History'],Buisiness,Extroverted,Middle Class,Financially Stable,Collaborative,Traveling,6,84,Business
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Middle Class,Financially Stable,Collaborative,Gardening,4,98,Art
+Science,['Physics'],['Chemistry' 'Physics'],Art,Introverted,Middle Class,Financial Strain,Competitive,Sports,5,66,Art
+Arts,"['History', 'Economics']",['History' 'Literature'],Finance,Introverted,Highly Educated,Financial Strain,Flexible,Teaching,7,93,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Middle Class,Financially Stable,Collaborative,Video Gaming,4,77,Software Engineering
+Science,['Physics'],['Chemistry' 'Physics'],Science,Extroverted,Highly Educated,Moderate,Flexible,Reading,6,79,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Low Income,Financially Stable,Competitive,Video Gaming,5,78,Art
+Science,['Chemistry'],['Physics' 'Mathematics'],Finance,Extroverted,Highly Educated,Financially Stable,Collaborative,Reading,4,95,Banking
+Science,['Physics'],['Mathematics' 'Physics'],Finance,Introverted,Low Income,Moderate,Flexible,Video Gaming,5,55,Banking
+Science,"['Computer Science', 'Biology']",['Physics' 'Mathematics'],Sports,Introverted,Highly Educated,Financial Strain,Flexible,Gardening,4,84,Sports
+Science,['Biology'],['Physics' 'Mathematics'],Buisiness,Extroverted,Low Income,Financially Stable,Flexible,Sports,6,90,Business
+Arts,['Economics'],['History' 'Geography'],Technology,Extroverted,Middle Class,Financial Strain,Competitive,Video Gaming,5,86,Software Engineering
+Arts,"['Geography', 'Literature']",['History' 'Geography'],Science,Introverted,Low Income,Financial Strain,Competitive,Video Gaming,4,73,Lab Scientist
+Science,['Chemistry'],['Chemistry' 'Mathematics'],Music,Introverted,Middle Class,Moderate,Flexible,Photography,6,78,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Extroverted,Middle Class,Moderate,Flexible,Sports,7,98,Business
+Science,"['Physics', 'Biology']",['Mathematics' 'Computer Science'],Buisiness,Extroverted,Low Income,Financial Strain,Competitive,Video Gaming,6,95,Business
+Arts,['Geography'],['History' 'Literature'],Sports,Extroverted,Highly Educated,Financially Stable,Flexible,Photography,6,80,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Highly Educated,Financial Strain,Flexible,Cooking,7,84,Art
+Arts,['Geography'],['History' 'Geography'],Art,Introverted,Highly Educated,Financially Stable,Competitive,Sports,6,82,Art
+Arts,['Literature'],['Literature' 'Geography'],Sports,Introverted,Highly Educated,Financially Stable,Flexible,Traveling,7,70,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Moderate,Flexible,Sports,7,81,Banking
+Science,['Mathematics'],['Mathematics' 'Chemistry'],Art,Extroverted,Middle Class,Financially Stable,Flexible,Sports,7,72,Art
+Science,['Computer Science'],['Biology' 'Chemistry'],Technology,Extroverted,Highly Educated,Financially Stable,Competitive,Video Gaming,4,82,Software Engineering
+Science,"['Computer Science', 'Chemistry']",['Mathematics' 'Physics'],Science,Introverted,Middle Class,Financial Strain,Flexible,Cooking,5,52,Lab Scientist
+Science,['Physics'],['Biology' 'Chemistry'],Buisiness,Introverted,Middle Class,Moderate,Competitive,Sports,4,67,Business
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Middle Class,Financially Stable,Competitive,Teaching,7,74,Business
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Introverted,Low Income,Financially Stable,Collaborative,Teaching,5,91,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Low Income,Moderate,Collaborative,Photography,5,80,Art
+Arts,['History'],['Geography' 'History'],Buisiness,Introverted,Middle Class,Financial Strain,Flexible,Video Gaming,7,52,Business
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Low Income,Moderate,Competitive,Video Gaming,5,89,Music Artist
+Science,['Chemistry'],['Biology' 'Mathematics'],Science,Introverted,Highly Educated,Moderate,Collaborative,Sports,5,95,Lab Scientist
+Arts,['Geography'],['Literature' 'History'],Science,Introverted,Highly Educated,Financially Stable,Flexible,Gardening,4,73,Lab Scientist
+Science,['Computer Science'],['Computer Science' 'Physics'],Buisiness,Introverted,Middle Class,Financially Stable,Collaborative,Cooking,5,99,Business
+Science,['Computer Science'],['Mathematics' 'Chemistry'],Sports,Introverted,Highly Educated,Financial Strain,Collaborative,Reading,7,81,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Middle Class,Financially Stable,Competitive,Reading,3,96,Business
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financially Stable,Competitive,Gardening,3,71,Sports
+Science,['Physics'],['Physics' 'Computer Science'],Buisiness,Extroverted,Highly Educated,Moderate,Collaborative,Photography,3,72,Business
+Science,['Physics'],['Biology' 'Physics'],Music,Extroverted,Low Income,Financially Stable,Collaborative,Reading,7,51,Music Artist
+Arts,['Economics'],['Geography' 'History'],Finance,Extroverted,Highly Educated,Financial Strain,Competitive,Sports,3,76,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Science,Introverted,Highly Educated,Moderate,Flexible,Reading,4,91,Lab Scientist
+Arts,['Literature'],['Literature' 'History'],Buisiness,Extroverted,Middle Class,Financial Strain,Competitive,Teaching,7,51,Business
+Arts,['Literature'],['Literature' 'History'],Music,Extroverted,Middle Class,Moderate,Collaborative,Teaching,7,75,Music Artist
+Arts,['History'],['Literature' 'History'],Sports,Introverted,Middle Class,Financially Stable,Flexible,Traveling,7,66,Sports
+Science,['Computer Science'],['Chemistry' 'Biology'],Sports,Introverted,Middle Class,Moderate,Collaborative,Cooking,5,89,Sports
+Arts,['Literature'],['History' 'Literature'],Science,Extroverted,Low Income,Moderate,Flexible,Photography,5,82,Lab Scientist
+Arts,"['Geography', 'History']",['Literature' 'Geography'],Technology,Extroverted,Low Income,Financially Stable,Collaborative,Video Gaming,5,58,Software Engineering
+Science,['Physics'],['Biology' 'Computer Science'],Buisiness,Introverted,Low Income,Financially Stable,Flexible,Cooking,6,92,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Art,Extroverted,Middle Class,Financial Strain,Flexible,Photography,4,97,Art
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Middle Class,Financial Strain,Collaborative,Reading,7,88,Sports
+Arts,['Geography'],['Literature' 'History'],Finance,Introverted,Middle Class,Financially Stable,Flexible,Traveling,7,78,Banking
+Science,"['Biology', 'Chemistry']",['Computer Science' 'Chemistry'],Finance,Introverted,Low Income,Financially Stable,Competitive,Cooking,5,91,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Middle Class,Financially Stable,Collaborative,Reading,7,75,Sports
+Arts,"['Geography', 'Literature']",['History' 'Geography'],Technology,Extroverted,Highly Educated,Moderate,Competitive,Photography,7,84,Software Engineering
+Arts,['History'],['Literature' 'Geography'],Technology,Introverted,Highly Educated,Moderate,Collaborative,Cooking,3,99,Software Engineering
+Science,['Physics'],['Chemistry' 'Physics'],Music,Introverted,Middle Class,Moderate,Flexible,Video Gaming,7,74,Music Artist
+Arts,['Geography'],['Geography' 'History'],Finance,Extroverted,Highly Educated,Financially Stable,Flexible,Cooking,6,73,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Financial Strain,Flexible,Reading,5,62,Music Artist
+Science,"['Chemistry', 'Biology']",['Physics' 'Biology'],Finance,Extroverted,Low Income,Financially Stable,Collaborative,Sports,4,56,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Extroverted,Middle Class,Moderate,Competitive,Sports,4,85,Business
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Extroverted,Middle Class,Moderate,Competitive,Cooking,3,94,Business
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Low Income,Financially Stable,Collaborative,Video Gaming,4,69,Art
+Arts,['Economics'],['History' 'Geography'],Buisiness,Extroverted,Highly Educated,Financially Stable,Collaborative,Traveling,4,50,Business
+Arts,"['Literature', 'Economics']",['Literature' 'Geography'],Art,Extroverted,Highly Educated,Moderate,Competitive,Traveling,5,57,Art
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Middle Class,Moderate,Competitive,Sports,5,95,Business
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Moderate,Competitive,Reading,6,65,Lab Scientist
+Science,['Physics'],['Physics' 'Chemistry'],Buisiness,Extroverted,Low Income,Financially Stable,Competitive,Photography,3,63,Business
+Science,['Physics'],['Computer Science' 'Biology'],Music,Extroverted,Low Income,Moderate,Collaborative,Reading,4,61,Music Artist
+Arts,['Economics'],['Literature' 'Geography'],Sports,Extroverted,Middle Class,Moderate,Collaborative,Traveling,6,72,Sports
+Arts,"['Economics', 'History']",['Geography' 'Literature'],Music,Extroverted,Low Income,Financial Strain,Flexible,Gardening,3,64,Music Artist
+Science,['Mathematics'],['Computer Science' 'Biology'],Sports,Introverted,Low Income,Financially Stable,Competitive,Gardening,4,77,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Middle Class,Financial Strain,Flexible,Cooking,4,83,Software Engineering
+Arts,['Literature'],['History' 'Geography'],Music,Extroverted,Low Income,Financial Strain,Collaborative,Video Gaming,5,51,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Introverted,Low Income,Moderate,Collaborative,Sports,7,81,Software Engineering
+Science,['Chemistry'],['Physics' 'Biology'],Art,Introverted,Low Income,Financially Stable,Flexible,Teaching,3,72,Art
+Arts,['History'],['History' 'Literature'],Art,Introverted,Highly Educated,Moderate,Competitive,Teaching,4,71,Art
+Arts,['History'],['History' 'Geography'],Science,Extroverted,Middle Class,Financially Stable,Competitive,Teaching,3,74,Lab Scientist
+Science,['Computer Science'],['Physics' 'Computer Science'],Buisiness,Introverted,Middle Class,Financial Strain,Competitive,Cooking,6,71,Software Engineering
+Arts,"['Geography', 'Economics']",['History' 'Literature'],Music,Extroverted,Middle Class,Financially Stable,Competitive,Gardening,6,71,Music Artist
+Science,['Chemistry'],['Mathematics' 'Biology'],Technology,Extroverted,Highly Educated,Moderate,Flexible,Traveling,7,98,Software Engineering
+Arts,"['Economics', 'Geography']",['History' 'Geography'],Sports,Introverted,Highly Educated,Moderate,Flexible,Cooking,4,91,Sports
+Science,['Mathematics'],['Biology' 'Chemistry'],Art,Introverted,Middle Class,Moderate,Collaborative,Teaching,5,55,Art
+Arts,['Geography'],['Literature' 'Geography'],Buisiness,Extroverted,Highly Educated,Financially Stable,Competitive,Teaching,4,64,Business
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Middle Class,Financial Strain,Competitive,Sports,3,92,Art
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Highly Educated,Financial Strain,Competitive,Reading,6,86,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Low Income,Financially Stable,Flexible,Teaching,3,82,Business
+Arts,['Economics'],['History' 'Literature'],Buisiness,Introverted,Low Income,Moderate,Competitive,Video Gaming,7,57,Business
+Arts,['Economics'],['History' 'Literature'],Technology,Introverted,Middle Class,Financial Strain,Flexible,Teaching,6,93,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Highly Educated,Moderate,Competitive,Reading,5,93,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Financially Stable,Competitive,Teaching,6,54,Music Artist
+Science,['Computer Science'],['Physics' 'Biology'],Music,Extroverted,Low Income,Moderate,Collaborative,Video Gaming,4,88,Music Artist
+Science,['Computer Science'],['Computer Science' 'Chemistry'],Finance,Extroverted,Low Income,Financial Strain,Competitive,Traveling,4,53,Banking
+Science,['Chemistry'],['Biology' 'Computer Science'],Finance,Extroverted,Highly Educated,Financial Strain,Competitive,Cooking,6,55,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Moderate,Collaborative,Video Gaming,7,94,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Highly Educated,Financially Stable,Flexible,Reading,4,81,Art
+Commerce,['Economics'],['Economics' 'Economics'],Music,Extroverted,Highly Educated,Moderate,Flexible,Cooking,4,79,Music Artist
+Science,['Chemistry'],['Physics' 'Biology'],Technology,Extroverted,Highly Educated,Financially Stable,Competitive,Cooking,5,96,Software Engineering
+Arts,['History'],['History' 'Literature'],Sports,Introverted,Highly Educated,Moderate,Flexible,Reading,6,84,Teaching
+Commerce,['Economics'],['Economics' 'Economics'],Technology,Extroverted,Middle Class,Financial Strain,Competitive,Sports,4,89,Software Engineering
+Arts,['History'],['Literature' 'Geography'],Art,Introverted,Highly Educated,Financially Stable,Collaborative,Gardening,7,65,Art
+Arts,['Geography'],['Geography' 'History'],Finance,Extroverted,Low Income,Financially Stable,Collaborative,Teaching,3,62,Banking
+Arts,"['Literature', 'History']",['Literature' 'History'],Technology,Introverted,Middle Class,Financially Stable,Competitive,Video Gaming,6,99,Software Engineering
+Science,['Mathematics'],['Chemistry' 'Computer Science'],Science,Extroverted,Highly Educated,Financial Strain,Collaborative,Reading,5,91,Lab Scientist
+Arts,['Literature'],['Geography' 'History'],Art,Introverted,Low Income,Moderate,Collaborative,Traveling,4,79,Art
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Middle Class,Financial Strain,Competitive,Photography,7,68,Banking
+Science,['Biology'],['Mathematics' 'Computer Science'],Sports,Extroverted,Low Income,Financially Stable,Competitive,Reading,6,66,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Highly Educated,Moderate,Collaborative,Teaching,7,68,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Highly Educated,Financial Strain,Flexible,Teaching,7,77,Business
+Science,['Physics'],['Physics' 'Chemistry'],Science,Introverted,Highly Educated,Financially Stable,Flexible,Cooking,5,75,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Highly Educated,Financially Stable,Competitive,Cooking,6,86,Art
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financial Strain,Competitive,Reading,4,75,Sports
+Science,['Chemistry'],['Physics' 'Chemistry'],Science,Extroverted,Middle Class,Financial Strain,Flexible,Photography,5,72,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Low Income,Financial Strain,Collaborative,Sports,4,58,Banking
+Arts,['Literature'],['Literature' 'History'],Science,Extroverted,Highly Educated,Financially Stable,Flexible,Reading,3,61,Lab Scientist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Low Income,Financial Strain,Flexible,Photography,7,50,Art
+Arts,['Economics'],['Geography' 'History'],Music,Introverted,Middle Class,Financially Stable,Flexible,Sports,3,50,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Highly Educated,Financial Strain,Flexible,Photography,7,96,Lab Scientist
+Science,['Computer Science'],['Biology' 'Mathematics'],Buisiness,Extroverted,Highly Educated,Financially Stable,Competitive,Teaching,5,83,Business
+Science,['Computer Science'],['Computer Science' 'Physics'],Science,Extroverted,Middle Class,Financially Stable,Competitive,Teaching,4,81,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Extroverted,Middle Class,Moderate,Collaborative,Teaching,4,97,Banking
+Science,"['Mathematics', 'Physics']",['Physics' 'Chemistry'],Finance,Extroverted,Middle Class,Financial Strain,Collaborative,Traveling,5,74,Banking
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Extroverted,Middle Class,Financial Strain,Collaborative,Teaching,6,89,Sports
+Science,"['Chemistry', 'Biology']",['Physics' 'Chemistry'],Finance,Extroverted,Middle Class,Financially Stable,Collaborative,Video Gaming,3,94,Banking
+Arts,['Literature'],['History' 'Literature'],Technology,Introverted,Highly Educated,Financially Stable,Flexible,Cooking,3,50,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Middle Class,Financially Stable,Competitive,Cooking,4,65,Art
+Arts,['Literature'],['Geography' 'History'],Art,Introverted,Highly Educated,Moderate,Competitive,Photography,4,88,Art
+Arts,['History'],['Literature' 'Geography'],Music,Introverted,Highly Educated,Moderate,Collaborative,Cooking,4,54,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Middle Class,Financially Stable,Collaborative,Gardening,5,71,Music Artist
+Arts,['Geography'],['Geography' 'History'],Art,Extroverted,Middle Class,Financial Strain,Flexible,Sports,6,78,Art
+Commerce,['Economics'],['Economics' 'Economics'],Buisiness,Introverted,Highly Educated,Financial Strain,Flexible,Photography,3,52,Business
+Arts,"['Economics', 'History']",['Literature' 'Geography'],Music,Introverted,Middle Class,Moderate,Collaborative,Cooking,7,61,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Sports,Introverted,Middle Class,Moderate,Competitive,Gardening,5,75,Sports
+Commerce,['Economics'],['Economics' 'Economics'],Finance,Introverted,Middle Class,Financially Stable,Competitive,Sports,3,65,Banking
+Science,['Biology'],['Chemistry' 'Computer Science'],Art,Introverted,Low Income,Financial Strain,Competitive,Traveling,6,86,Art
+Commerce,['Economics'],['Economics' 'Economics'],Music,Introverted,Highly Educated,Financially Stable,Collaborative,Cooking,5,71,Music Artist
+Commerce,['Economics'],['Economics' 'Economics'],Art,Introverted,Low Income,Moderate,Competitive,Gardening,3,78,Art
+Arts,['Literature'],['Literature' 'History'],Technology,Extroverted,Middle Class,Financial Strain,Flexible,Reading,5,63,Software Engineering
+Commerce,['Economics'],['Economics' 'Economics'],Science,Extroverted,Low Income,Financial Strain,Flexible,Video Gaming,3,77,Lab Scientist
+Science,['Mathematics'],['Chemistry' 'Mathematics'],Finance,Introverted,Middle Class,Moderate,Collaborative,Reading,3,54,Banking
+Arts,['Geography'],['History' 'Literature'],Art,Extroverted,Low Income,Financially Stable,Flexible,Gardening,6,96,Art
+Arts,['Geography'],['History' 'Literature'],Science,Extroverted,Middle Class,Financially Stable,Collaborative,Photography,7,98,Lab Scientist
+Science,['Physics'],['Mathematics' 'Biology'],Music,Extroverted,Low Income,Financial Strain,Competitive,Teaching,6,79,Music Artist
+Arts,['Economics'],['History' 'Literature'],Science,Extroverted,Low Income,Moderate,Competitive,Teaching,3,95,Lab Scientist
+Arts,"['History', 'Geography']",['Geography' 'History'],Finance,Introverted,Low Income,Financial Strain,Competitive,Teaching,5,54,Banking
+Arts,['Economics'],['Literature' 'History'],Art,Extroverted,Highly Educated,Moderate,Flexible,Sports,6,61,Art
+Arts,['Literature'],['Geography' 'Literature'],Technology,Extroverted,Low Income,Financially Stable,Collaborative,Photography,7,65,Software Engineering
+Science,"['Mathematics', 'Computer Science']",['Biology' 'Chemistry'],Buisiness,Extroverted,Highly Educated,Moderate,Competitive,Sports,3,75,Business
+Science,['Physics'],['Mathematics' 'Physics'],Music,Introverted,Middle Class,Financially Stable,Collaborative,Cooking,6,75,Music Artist
